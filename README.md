@@ -39,7 +39,7 @@
   </p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,python,dotnet,mysql,postgres,git,vscode,visualstudio,powershell,bash&theme=dark" alt="Skill Icons">
+      <img src="https://skillicons.dev/icons?i=cs,python,dotnet,mysql,postgres,git,vscode,visualstudio" alt="Skill Icons">
     </a>
   </p>
 </div>
