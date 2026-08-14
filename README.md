@@ -2,7 +2,7 @@
      HEADER / BANNER
      ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:4facfe&height=220&section=header&text=ARTHUR%20RESENDE&fontSize=42&fontColor=ffffff&animation=twinkling&desc=SYSTEM%20ONLINE%20//%20SOFTWARE%20ENGINEER%20%26%20IT%20INFRA&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f2fe&height=200&section=header&text=ARTHUR%20RESENDE&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -35,7 +35,6 @@
   Nome: Arthur Resende
   Cursando: Bacharelado em Engenharia de Software
   Focus: Infraestrutura de TI & Diagnóstico de Software/Hardware
- 
   
 [CORE_COMPETENCIES]:
   - 🛠️ Manutenção preventiva/corretiva de hardware, notebooks e ativos
