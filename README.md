@@ -24,6 +24,27 @@
 
 <br>
 
+<!-- ==========================================
+     TECH STACK (EM DESTAQUE NO TOPO)
+     ========================================== -->
+<div align="center">
+  <h3>⚡ TECH STACK & CORE TECHNOLOGIES</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,python,dotnet,mysql,postgres,git,vscode,visualstudio,powershell,bash&theme=dark" alt="Skill Icons">
+    </a>
+  </p>
+</div>
+
+<br>
+
 ---
 
 <!-- ==========================================
@@ -32,7 +53,6 @@
 ## 🔮 SYS.INFO // Sobre Mim
 
 ```yaml
-[USER_DATA]:
   Nome: Arthur Resende
   Cursando: Bacharelado em Engenharia de Software
   Focus: Infraestrutura de TI & Diagnóstico de Software/Hardware
