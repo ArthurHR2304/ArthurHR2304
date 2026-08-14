@@ -2,33 +2,34 @@
      HEADER / BANNER
      ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f2fe&height=200&section=header&text=ARTHUR%20RESENDE&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f2fe&height=200&section=header&text=ARTHUR%20RESENDE&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner">
 
-  <!-- TYPING ANIMATION -->
+  <br>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=600&height=50&lines=LOADING+CORE_MODULES...;SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN;CYBERNETIC_INTERFACE_READY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=600&height=50&lines=LOADING+CORE_MODULES...;SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN;CYBERNETIC_INTERFACE_READY" alt="Typing SVG">
   </a>
 </div>
 
-<br />
+<br>
 
 <!-- ==========================================
      INICIALIZAÇÃO DO SISTEMA / STATUS
      ========================================== -->
 <div align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00F2FE?style=for-the-badge&logo=rescuetime&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_04-4FACFE?style=for-the-badge&logo=shield&logoColor=white" alt="Clearance" />
-  <img src="https://img.shields.io/badge/LOCATION-MINAS_GERAIS_BR-0052D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00F2FE?style=for-the-badge&logo=rescuetime&logoColor=black" alt="Status">
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_04-4FACFE?style=for-the-badge&logo=shield&logoColor=white" alt="Clearance">
+  <img src="https://img.shields.io/badge/LOCATION-MINAS_GERAIS_BR-0052D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </div>
 
-<br />
+<br>
 
 ---
 
 <!-- ==========================================
-     SOBRE MIM / SYSTEM SPECS
+     SOBRE MIM
      ========================================== -->
-## 🔮 <font color="#00F2FE">SYS.INFO // Sobre Mim</font>
+## 🔮 SYS.INFO // Sobre Mim
 
 ```yaml
 [USER_DATA]:
@@ -41,4 +42,4 @@
   - 🌐 Infraestrutura, administração de redes e monitoramento de sistemas
   - 🔑 Gestão de identidades e acessos via Active Directory
   - 🎧 Help Desk de alta performance (Suporte presencial e remoto)
-  - 💾 Diagnóstico avançado com SQL, Banco de Dados e ecossistema C#/.NET
+  - 💾 Diagnóstico avançado com SQL, Python, C#/.NET e Banco de Dados
