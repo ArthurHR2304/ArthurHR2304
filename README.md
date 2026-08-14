@@ -1,16 +1,45 @@
-## Hi there 👋
+<!-- ==========================================
+     HEADER / BANNER
+     ========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:4facfe&height=220&section=header&text=ARTHUR%20RESENDE&fontSize=42&fontColor=ffffff&animation=twinkling&desc=SYSTEM%20ONLINE%20//%20SOFTWARE%20ENGINEER%20%26%20IT%20INFRA&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
 
-<!--
-**ArthurHR2304/ArthurHR2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- TYPING ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=600&height=50&lines=LOADING+CORE_MODULES...;SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN;CYBERNETIC_INTERFACE_READY" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ==========================================
+     INICIALIZAÇÃO DO SISTEMA / STATUS
+     ========================================== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00F2FE?style=for-the-badge&logo=rescuetime&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_04-4FACFE?style=for-the-badge&logo=shield&logoColor=white" alt="Clearance" />
+  <img src="https://img.shields.io/badge/LOCATION-MINAS_GERAIS_BR-0052D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</div>
+
+<br />
+
+---
+
+<!-- ==========================================
+     SOBRE MIM / SYSTEM SPECS
+     ========================================== -->
+## 🔮 <font color="#00F2FE">SYS.INFO // Sobre Mim</font>
+
+```yaml
+[USER_DATA]:
+  Nome: Arthur Resende
+  Cursando: Bacharelado em Engenharia de Software
+  Focus: Infraestrutura de TI & Diagnóstico de Software/Hardware
+ 
+  
+[CORE_COMPETENCIES]:
+  - 🛠️ Manutenção preventiva/corretiva de hardware, notebooks e ativos
+  - 🌐 Infraestrutura, administração de redes e monitoramento de sistemas
+  - 🔑 Gestão de identidades e acessos via Active Directory
+  - 🎧 Help Desk de alta performance (Suporte presencial e remoto)
+  - 💾 Diagnóstico avançado com SQL, Banco de Dados e ecossistema C#/.NET
