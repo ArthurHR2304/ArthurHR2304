@@ -4,17 +4,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f2fe&height=200&section=header&text=ARTHUR%20RESENDE&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner">
 
-  <br>
+  <br><br>
 
-  <!-- GIFS ANIMADOS NATIVOS DO GITHUB NAS LATERAIS -->
+  <!-- GIFS EM ESCALA MENOR CENTRALIZADOS COM O TEXTO -->
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="40" alt="Cyber Bot Left">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d5Mnd4OW5xazdtazcxNXlhcnBwNmFsMHRtMmExY2s1d3pxcnptYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3M0hkQMmg/giphy.gif" width="30" height="30" alt="Cat Working GIF" style="vertical-align: middle;">
     &nbsp;&nbsp;
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=500&height=40&lines=LOADING+CORE_MODULES...;SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN;CYBERNETIC_INTERFACE_READY" alt="Typing SVG">
+    <a href="https://git.io/typing-svg" style="vertical-align: middle;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=450&height=35&lines=LOADING+CORE_MODULES...;SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN;CYBERNETIC_INTERFACE_READY" alt="Typing SVG">
     </a>
     &nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="40" alt="Cyber Bot Right">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d5Mnd4OW5xazdtazcxNXlhcnBwNmFsMHRtMmExY2s1d3pxcnptYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3M0hkQMmg/giphy.gif" width="30" height="30" alt="Cat Working GIF" style="vertical-align: middle;">
   </p>
 </div>
 
