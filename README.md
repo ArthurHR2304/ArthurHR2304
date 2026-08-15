@@ -6,15 +6,15 @@
 
   <br>
 
-  <!-- ANIMAÇÃO COM GIFS ANIMADOS NAS PONTAS -->
+  <!-- ANIMADA COM GIFS 100% ESTÁVEIS -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Robot.png" width="45" alt="Robot GIF">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d5Mnd4OW5xazdtazcxNXlhcnBwNmFsMHRtMmExY2s1d3pxcnptYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3M0hkQMmg/giphy.gif" width="45" alt="Cat Hacker GIF">
     &nbsp;&nbsp;
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=500&height=40&lines=LOADING+CORE_MODULES...;SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN;CYBERNETIC_INTERFACE_READY" alt="Typing SVG">
     </a>
     &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="45" alt="Technologist GIF">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RzbHNvaWk3Z3I3d3AydGptZGVsaGFvNmxoYWxweDRtZjIxaTNxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k0GAj8t3G3vM0J3J8k/giphy.gif" width="45" alt="Cyber Bot GIF">
   </p>
 </div>
 
