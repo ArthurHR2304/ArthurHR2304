@@ -54,19 +54,23 @@
 ---
 
 <!-- ==========================================
-     SOBRE MIM
+     SOBRE MIM (COM GATO HACKER)
      ========================================== -->
 ## 🔮 SYS.INFO // Sobre Mim
 
+<table border="0">
+  <tr>
+    <td width="70%" valign="top">
+
 ```yaml
 [USER_DATA]:
-  Nome: Arthur Resende
+  Nome: Arthur Hipólito Resende
   Cursando: Bacharelado em Engenharia de Software
   Focus: Infraestrutura de TI & Diagnóstico de Software/Hardware
   
 [CORE_COMPETENCIES]:
-  - 🛠️ Manutenção preventiva/corretiva de hardware, notebooks e ativos
-  - 🌐 Infraestrutura, administração de redes e monitoramento de sistemas
+  - 🛠️ Manutenção preventiva/corretiva de hardware e ativos
+  - 🌐 Infraestrutura, administração de redes e monitoramento
   - 🔑 Gestão de identidades e acessos via Active Directory
-  - 🎧 Help Desk de alta performance (Suporte presencial e remoto)
-  - 💾 Diagnóstico avançado com SQL, Python, C#/.NET e Banco de Dados
+  - 🎧 Help Desk de alta performance (Presencial e Remoto)
+  - 💾 Diagnóstico avançado em SQL, Python, C#/.NET e BD
