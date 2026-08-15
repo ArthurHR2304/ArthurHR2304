@@ -6,15 +6,14 @@
 
   <br><br>
 
-  <!-- EMOJIS ANIMADOS NATIVOS EM ESCALA PERFEITA -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="35" height="35" alt="Cat Left" style="vertical-align: middle;">
-    &nbsp;&nbsp;
-    <a href="https://git.io/typing-svg" style="vertical-align: middle;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=450&height=35&lines=LOADING+CORE_MODULES...;SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN;CYBERNETIC_INTERFACE_READY" alt="Typing SVG">
+    <img src="https://img.shields.io/badge/%E2%9A%A1_AI-CORE-00f2fe?style=powerline" alt="Core">
+    &nbsp;
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=450&height=35&lines=SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN" alt="Typing SVG">
     </a>
-    &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="35" height="35" alt="Cat Right" style="vertical-align: middle;">
+    &nbsp;
+    <img src="https://img.shields.io/badge/v2.4-ONLINE-00f2fe?style=powerline" alt="Status">
   </p>
 </div>
 
@@ -32,7 +31,7 @@
 <br>
 
 <!-- ==========================================
-     TECH STACK & FERRAMENTAS
+     TECH STACK
      ========================================== -->
 <div align="center">
   <h3>⚡ TECH STACK & CORE TECHNOLOGIES</h3>
