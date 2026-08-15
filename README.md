@@ -6,15 +6,15 @@
 
   <br><br>
 
-  <!-- GIFS DO GATO HACKER EM ESCALA MENOR E CENTRALIZADOS -->
+  <!-- EMOJIS ANIMADOS NATIVOS EM ESCALA PERFEITA -->
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="32" height="32" alt="Cat Working Left">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="35" height="35" alt="Cat Left" style="vertical-align: middle;">
     &nbsp;&nbsp;
-    <a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg" style="vertical-align: middle;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=450&height=35&lines=LOADING+CORE_MODULES...;SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN;CYBERNETIC_INTERFACE_READY" alt="Typing SVG">
     </a>
     &nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="32" height="32" alt="Cat Working Right">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="35" height="35" alt="Cat Right" style="vertical-align: middle;">
   </p>
 </div>
 
