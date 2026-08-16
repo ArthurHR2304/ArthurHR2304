@@ -7,13 +7,9 @@
   <br><br>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/%E2%9A%A1_AI-CORE-00f2fe?style=powerline" alt="Core">
-    &nbsp;
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=450&height=35&lines=SOFTWARE_ENGINEERING_STUDENT;IT_INFRASTRUCTURE_%26_NETWORKS;SUPPORT_ANALYST_%26_SYSADMIN" alt="Typing SVG">
     </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/v2.4-ONLINE-00f2fe?style=powerline" alt="Status">
   </p>
 </div>
 
@@ -74,7 +70,7 @@
 ## 🔮 SYS.INFO // Sobre Mim
 
 <p align="right">
-  <img src="https://media1.tenor.com/m/rkY5QA5c3VAAAAAd/gato-digitando.gif" width="220" align="right" alt="Cat Hacker GIF">
+  <img src="https://media1.tenor.com/m/rkY5QA5c3VAAAAAd/gato-digitando.gif" width="280" align="right" alt="Cat Hacker GIF">
 </p>
 
 - 👤 **Nome:** Arthur Hipólito Resende
