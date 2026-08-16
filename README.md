@@ -30,25 +30,22 @@
      CAMPO DE CONTATO / REDES SOCIAIS
      ========================================== -->
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" background="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003366,100:00f2fe&height=80&section=body&animation=twinkle">
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/arthur-hip%C3%B3lito-resende-138a07312" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://discord.com/users/aldebaran9755" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-aldebaran9755-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-        </a>
-        &nbsp;&nbsp;
-        <a href="mailto:arthur_resende@outlook.com.br">
-          <img src="https://img.shields.io/badge/Email-arthur__resende%40outlook.com.br-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
-        </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      </td>
-    </tr>
-  </table>
+  <a href="https://capsule-render.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003366,100:00f2fe&height=120&section=footer" width="100%" />
+  </a>
+  <p align="center" style="margin-top: -50px;">
+    <a href="https://www.linkedin.com/in/arthur-hip%C3%B3lito-resende-138a07312" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    &nbsp;
+    <a href="https://discord.com/users/aldebaran9755" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-aldebaran9755-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    &nbsp;
+    <a href="mailto:arthur_resende@outlook.com.br">
+      <img src="https://img.shields.io/badge/Email-arthur__resende%40outlook.com.br-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+    </a>
+  </p>
 </div>
 
 <br>
@@ -99,5 +96,3 @@
 <br>
 
 > **Briefing:** Estudante de **Engenharia de Software** com sólida bagagem prática em **Suporte e Infraestrutura de TI**. Atuo diretamente no gerenciamento de ativos, Active Directory e infraestrutura de redes para garantir **alta disponibilidade e estabilidade**. Minha base em desenvolvimento confere uma visão analítica profunda para diagnosticar e integrar soluções de hardware e software com máxima eficiência.
-
-<br>
