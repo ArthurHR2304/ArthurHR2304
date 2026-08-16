@@ -30,7 +30,7 @@
   <br><br>
 
   <!-- CONTATO & REDES SOCIAIS -->
-  <a href="https://www.linkedin.com/in/arthur-hip%C3%B3lito-resende" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-hip%C3%B3lito-resende-138a07312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
@@ -74,7 +74,7 @@
 ## 🔮 SYS.INFO // Sobre Mim
 
 <p align="right">
-  <img src="https://media1.tenor.com/m/rkY5QA5c3VAAAAAd/gato-digitando.gif" width="160" align="right" alt="Cat Hacker GIF">
+  <img src="https://media1.tenor.com/m/rkY5QA5c3VAAAAAd/gato-digitando.gif" width="220" align="right" alt="Cat Hacker GIF">
 </p>
 
 - 👤 **Nome:** Arthur Hipólito Resende
