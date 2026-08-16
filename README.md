@@ -27,31 +27,31 @@
 <br>
 
 <!-- ==========================================
-     BANNER ANIMADO DE CONTATO & REDES
+     CAMPO DE CONTATO / REDES SOCIAIS
      ========================================== -->
 <div align="center">
-  <div style="position: relative; width: 100%; max-width: 850px;">
-    <!-- BANNER ANIMADO DE FUNDO -->
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003366,100:00f2fe&height=120&section=body&animation=twinkle" width="100%" style="border-radius: 12px;" alt="Contact Banner">
-    
-    <!-- BOTÕES SOBREPOSTOS -->
-    <p align="center" style="margin-top: -75px; position: relative; z-index: 2;">
-      <a href="https://www.linkedin.com/in/arthur-hip%C3%B3lito-resende-138a07312" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://discord.com/users/aldebaran9755" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-aldebaran9755-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-      </a>
-      &nbsp;&nbsp;
-      <a href="mailto:arthur_resende@outlook.com.br">
-        <img src="https://img.shields.io/badge/Email-arthur__resende%40outlook.com.br-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
-      </a>
-    </p>
-  </div>
+  <table border="0">
+    <tr>
+      <td align="center" background="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003366,100:00f2fe&height=80&section=body&animation=twinkle">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/arthur-hip%C3%B3lito-resende-138a07312" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://discord.com/users/aldebaran9755" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-aldebaran9755-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+        &nbsp;&nbsp;
+        <a href="mailto:arthur_resende@outlook.com.br">
+          <img src="https://img.shields.io/badge/Email-arthur__resende%40outlook.com.br-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br><br>
+<br>
 
 <!-- ==========================================
      TECH STACK
