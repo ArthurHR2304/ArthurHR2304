@@ -20,12 +20,27 @@
 <br>
 
 <!-- ==========================================
-     INICIALIZAÇÃO DO SISTEMA / STATUS
+     INICIALIZAÇÃO DO SISTEMA / STATUS / CONTATO
      ========================================== -->
 <div align="center">
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00F2FE?style=for-the-badge&logo=rescuetime&logoColor=black" alt="Status">
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_04-4FACFE?style=for-the-badge&logo=shield&logoColor=white" alt="Clearance">
   <img src="https://img.shields.io/badge/LOCATION-MINAS_GERAIS_BR-0052D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+
+  <br><br>
+
+  <!-- CONTATO & REDES SOCIAIS -->
+  <a href="https://www.linkedin.com/in/arthur-hip%C3%B3lito-resende" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/aldebaran9755" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-aldebaran9755-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  &nbsp;
+  <a href="mailto:arthur_resende@outlook.com.br">
+    <img src="https://img.shields.io/badge/Email-arthur__resende%40outlook.com.br-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
 </div>
 
 <br>
@@ -54,7 +69,7 @@
 ---
 
 <!-- ==========================================
-     SOBRE MIM (COM O GATO HACKER GARANTIDO)
+     SOBRE MIM
      ========================================== -->
 ## 🔮 SYS.INFO // Sobre Mim
 
@@ -78,16 +93,3 @@
 > **Briefing:** Estudante de **Engenharia de Software** com sólida bagagem prática em **Suporte e Infraestrutura de TI**. Atuo diretamente no gerenciamento de ativos, Active Directory e infraestrutura de redes para garantir **alta disponibilidade e estabilidade**. Minha base em desenvolvimento confere uma visão analítica profunda para diagnosticar e integrar soluções de hardware e software com máxima eficiência.
 
 <br>
-
----
-
-<!-- ==========================================
-     PROJETOS EM DESTAQUE
-     ========================================== -->
-## 🛰️ DEPLOYED_PROJECTS // Projetos em Destaque
-
-| 🖥️ System Monitor & Admin Tool | 🗄️ SQL & Python Analytics |
-| :---: | :---: |
-| <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> |
-| Ferramenta para automatizar diagnósticos de ativos em rede, checagem de hardware e logs de usuários em tempo real. | Scripts otimizados de consulta e automação de banco de dados para identificação rápida de incidentes e análise de dados. |
-| [> Executar Repositório](https://github.com/ArthurHR2304?tab=repositories) | [> Executar Repositório](https://github.com/ArthurHR2304?tab=repositories) |
