@@ -16,30 +16,42 @@
 <br>
 
 <!-- ==========================================
-     INICIALIZAÇÃO DO SISTEMA / STATUS / CONTATO
+     INICIALIZAÇÃO DO SISTEMA / STATUS
      ========================================== -->
 <div align="center">
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00F2FE?style=for-the-badge&logo=rescuetime&logoColor=black" alt="Status">
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_04-4FACFE?style=for-the-badge&logo=shield&logoColor=white" alt="Clearance">
   <img src="https://img.shields.io/badge/LOCATION-MINAS_GERAIS_BR-0052D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-
-  <br><br>
-
-  <!-- CONTATO & REDES SOCIAIS -->
-  <a href="https://www.linkedin.com/in/arthur-hip%C3%B3lito-resende-138a07312" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/aldebaran9755" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-aldebaran9755-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  &nbsp;
-  <a href="mailto:arthur_resende@outlook.com.br">
-    <img src="https://img.shields.io/badge/Email-arthur__resende%40outlook.com.br-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
-  </a>
 </div>
 
 <br>
+
+<!-- ==========================================
+     BANNER ANIMADO DE CONTATO & REDES
+     ========================================== -->
+<div align="center">
+  <div style="position: relative; width: 100%; max-width: 850px;">
+    <!-- BANNER ANIMADO DE FUNDO -->
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003366,100:00f2fe&height=120&section=body&animation=twinkle" width="100%" style="border-radius: 12px;" alt="Contact Banner">
+    
+    <!-- BOTÕES SOBREPOSTOS -->
+    <p align="center" style="margin-top: -75px; position: relative; z-index: 2;">
+      <a href="https://www.linkedin.com/in/arthur-hip%C3%B3lito-resende-138a07312" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://discord.com/users/aldebaran9755" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-aldebaran9755-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      </a>
+      &nbsp;&nbsp;
+      <a href="mailto:arthur_resende@outlook.com.br">
+        <img src="https://img.shields.io/badge/Email-arthur__resende%40outlook.com.br-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+      </a>
+    </p>
+  </div>
+</div>
+
+<br><br>
 
 <!-- ==========================================
      TECH STACK
